@@ -1,4 +1,4 @@
 def saludar():
-    print("Buenas tardes estimados alumnos")
+    print("Hola curso de git essentials 2026")
 
 saludar()
